@@ -1,0 +1,32 @@
+{
+    "maps": [
+        {
+            "id": 1,
+            "name": "Fracture"
+        },
+        {
+            "id": 2,
+            "name": "Bind"
+        },
+        {
+            "id": 3,
+            "name": "Ascent"
+        },
+        {
+            "id": 4,
+            "name": "Split"
+        },
+        {
+            "id": 5,
+            "name": "Haven"
+        },
+        {
+            "id": 6,
+            "name": "Icebox"
+        },
+        {
+            "id": 7,
+            "name": "Breeze"
+        }
+    ]
+}

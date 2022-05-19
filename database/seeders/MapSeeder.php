@@ -2,12 +2,12 @@
 
 namespace Database\Seeders;
 
-use App\Models\Agent;
+use App\Models\Map;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use File;
 
-class AgentSeeder extends Seeder
+class MapSeeder extends Seeder
 {
     /**
      * Run the database seeds.
@@ -16,11 +16,11 @@ class AgentSeeder extends Seeder
      */
     public function run()
     {
-        $json = File::get(public_path("data/role-data.json"));
-        $roles = json_decode($json);
+        $json = File::get(public_path("data/map-data.json"));
+        $maps = json_decode($json);
 
-        foreach ($roles->roles as $key => $value) {
-            Agent::create([
+        foreach ($maps->maps as $key => $value) {
+            Map::create([
                 "name" => $value->name,
             ]);
         }
