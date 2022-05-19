@@ -1,0 +1,12 @@
+{
+    "agents": [
+        {
+            "id": 1,
+            "name": "Brimstone",
+            "bio": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.",
+            "role_id": 2,
+            "ability_1_title": "Incendiary",
+            "ability_1_description"
+        }
+    ]
+}
