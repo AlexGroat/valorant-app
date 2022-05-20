@@ -16,19 +16,22 @@ class AgentSeeder extends Seeder
      */
     public function run()
     {
-        $json = File::get(public_path("data/role-data.json"));
-        $roles = json_decode($json);
+        $json = File::get(public_path("data/agent-data.json"));
+        $agents = json_decode($json);
 
-        foreach ($roles->roles as $key => $value) {
+        foreach ($agents->agents as $key => $value) {
             Agent::create([
                 "name" => $value->name,
                 "bio" => $value->bio,
                 "role_id" => $value->role_id,
-                "name" => $value->name,
-                "name" => $value->name,
-                "name" => $value->name,
-                "name" => $value->name,
-                "name" => $value->name,
+                "ability_1_title" => $value->ability_1_title,
+                "ability_1_description" => $value->ability_1_description,
+                "ability_2_title" => $value->ability_2_title,
+                "ability_2_description" => $value->ability_2_description,
+                "ability_3_title" => $value->ability_3_title,
+                "ability_3_description" => $value->ability_3_description,
+                "ultimate_title" => $value->ultimate_title,
+                "ultimate_description" => $value->ultimate_description,
             ]);
         }
     }
