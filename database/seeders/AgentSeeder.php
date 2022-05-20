@@ -22,6 +22,13 @@ class AgentSeeder extends Seeder
         foreach ($roles->roles as $key => $value) {
             Agent::create([
                 "name" => $value->name,
+                "bio" => $value->bio,
+                "role_id" => $value->role_id,
+                "name" => $value->name,
+                "name" => $value->name,
+                "name" => $value->name,
+                "name" => $value->name,
+                "name" => $value->name,
             ]);
         }
     }
