@@ -33,13 +33,6 @@
             "name": "Ghost",
             "bio": "Sleek, silenced and proficient at any range.",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
-            "weapon_type": 7
-        },
-        {
-            "id": 6,
-            "name": "Tactical Knife",
-            "bio": "An intimate solution",
-            "description": "The Ghost is accurate and carries a large magazine if you miss. Distant targets require a controlled fire rate. Quickly tap the trigger when you can see the whites of their eyes.",
             "weapon_type": 1
         },
         {
