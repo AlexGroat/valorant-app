@@ -1,0 +1,32 @@
+{
+    "weaponType": [
+        {
+            "id": 1,
+            "name": "Sidearm"
+        },
+        {
+            "id": 2,
+            "name": "SMG"
+        },
+        {
+            "id": 3,
+            "name": "Shotgun"
+        },
+        {
+            "id": 4,
+            "name": "Rifle"
+        },
+        {
+            "id": 5,
+            "name": "Sniper"
+        },
+        {
+            "id": 6,
+            "name": "Heavy"
+        },
+        {
+            "id": 7,
+            "name": "Melee"
+        }
+    ]
+}

@@ -17,5 +17,6 @@ class DatabaseSeeder extends Seeder
         $this->call(MapSeeder::class);
         $this->call(RoleSeeder::class);
         $this->call(AgentSeeder::class);
+        $this->call(WeaponTypeSeeder::class);
     }
 }

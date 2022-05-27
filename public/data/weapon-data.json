@@ -1,0 +1,130 @@
+{
+    "weapons": [
+        {
+            "id": 1,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 7
+        },
+        {
+            "id": 2,
+            "name": "Classic",
+            "bio": "Lightweight and versatile, the default weapon for all is an instant classic.",
+            "description": "Primary fire lands precise shots when still, and is equipped with an alternate burst-firing mode for close encounters.",
+            "weapon_type": 1
+        },
+        {
+            "id": 3,
+            "name": "Shorty",
+            "bio": "Surprise your enemy up close for max effectiveness.",
+            "description": "A nimble, short barrel shotgun that is deadly at close range but can only fire twice before needing to reload. Pairs well with long range weapons",
+            "weapon_type": 1
+        },
+        {
+            "id": 4,
+            "name": "Frenzy",
+            "bio": "Up close, hold the trigger. From afar...try something else.",
+            "description": "Lightweight machine pistol that excels at firing on the move. It’s high rate-of-fire can be difficult to control, so try short bursts at medium ranges.",
+            "weapon_type": 1
+        },
+        {
+            "id": 5,
+            "name": "Ghost",
+            "bio": "Sleek, silenced and proficient at any range.",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 7
+        },
+        {
+            "id": 6,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "The Ghost is accurate and carries a large magazine if you miss. Distant targets require a controlled fire rate. Quickly tap the trigger when you can see the whites of their eyes.",
+            "weapon_type": 1
+        },
+        {
+            "id": 7,
+            "name": "Sheriff",
+            "bio": "A modern six shooter for the headshot searcher.",
+            "description": "It’s high-impact rounds pack a ton of recoil and require true grit to master. Wield the Sheriff right, and your enemies will know they were expendable.",
+            "weapon_type": 1
+        },
+        {
+            "id": 8,
+            "name": "Stinger",
+            "bio": "They'll know it's over when the Stinger splash hits.",
+            "description": "It’s high-impact rounds pack a ton of recoil and require true grit to master. Wield the Sheriff right, and your enemies will know they were expendable.",
+            "weapon_type": 2
+        },
+        {
+            "id": 9,
+            "name": "Spectre",
+            "bio": "When in doubt, the Spectre is your number one.",
+            "description": "A jack-of-all-trades weapon with a great balance of damage, fire rate, and accuracy—at both short and mid range. It haunts the corners of every map and requires only steady aim to drop foes at long distance.",
+            "weapon_type": 2
+        },
+        {
+            "id": 10,
+            "name": "Bucky",
+            "bio": "Attacker. Defender. You're the one with the pump action shotgun.",
+            "description": "Heavy but stable, Bucky’s primary fire is for holding tight corners or charging close quarters. Alternate fire strikes targets at medium range.",
+            "weapon_type": 3
+        },
+        {
+            "id": 11,
+            "name": "Judge",
+            "bio": "Automatic, rapid fire shotgun that provides sustained high damage.",
+            "description": "The Judge is stable at the stand but volatile when fired rapidly. Primary fire hammers short range targets and you’ll need to be steady to nail anything beyond an arm's-length.",
+            "weapon_type": 3
+        },
+        {
+            "id": 12,
+            "name": "Bulldog",
+            "bio": "Some ",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 4
+        },
+        {
+            "id": 13,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 4
+        },
+        {
+            "id": 14,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 4
+        },
+        {
+            "id": 15,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 4
+        },
+        {
+            "id": 16,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 7
+        },
+        {
+            "id": 17,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 7
+        },
+        {
+            "id": 18,
+            "name": "Tactical Knife",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 7
+        }
+    ]
+}
