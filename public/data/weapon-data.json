@@ -86,45 +86,52 @@
         },
         {
             "id": 13,
-            "name": "Tactical Knife",
+            "name": "Guardian",
             "bio": "An intimate solution",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
             "weapon_type": 4
         },
         {
             "id": 14,
-            "name": "Tactical Knife",
+            "name": "Phantom",
             "bio": "An intimate solution",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
             "weapon_type": 4
         },
         {
             "id": 15,
-            "name": "Tactical Knife",
+            "name": "Vandal",
             "bio": "An intimate solution",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
             "weapon_type": 4
         },
         {
             "id": 16,
-            "name": "Tactical Knife",
+            "name": "Marshall",
             "bio": "An intimate solution",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
-            "weapon_type": 7
+            "weapon_type": 5
         },
         {
             "id": 17,
-            "name": "Tactical Knife",
+            "name": "Operator",
             "bio": "An intimate solution",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
-            "weapon_type": 7
+            "weapon_type": 5
+        },
+        {
+            "id": 17,
+            "name": "Odin",
+            "bio": "An intimate solution",
+            "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+            "weapon_type": 6
         },
         {
             "id": 18,
-            "name": "Tactical Knife",
+            "name": "Aries",
             "bio": "An intimate solution",
             "description": "When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
-            "weapon_type": 7
+            "weapon_type": 6
         }
     ]
 }

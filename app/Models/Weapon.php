@@ -10,6 +10,10 @@ class Weapon extends Model
 {
     use HasFactory;
 
+    protected $fillable = [
+        'weapon_type'
+    ];
+
     public function type()
     {
         return $this->belongsTo(WeaponType::class);
