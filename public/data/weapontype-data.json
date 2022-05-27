@@ -2,31 +2,31 @@
     "weaponType": [
         {
             "id": 1,
-            "name": "Sidearm"
+            "type": "Sidearm"
         },
         {
             "id": 2,
-            "name": "SMG"
+            "type": "SMG"
         },
         {
             "id": 3,
-            "name": "Shotgun"
+            "type": "Shotgun"
         },
         {
             "id": 4,
-            "name": "Rifle"
+            "type": "Rifle"
         },
         {
             "id": 5,
-            "name": "Sniper"
+            "type": "Sniper"
         },
         {
             "id": 6,
-            "name": "Heavy"
+            "type": "Heavy"
         },
         {
             "id": 7,
-            "name": "Melee"
+            "type": "Melee"
         }
     ]
 }

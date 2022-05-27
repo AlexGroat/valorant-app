@@ -21,7 +21,7 @@ class WeaponTypeSeeder extends Seeder
 
         foreach ($weaponType->weaponType as $key => $value) {
             WeaponType::create([
-                "name" => $value->name,
+                "type" => $value->type,
             ]);
         }
     }
